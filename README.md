@@ -23,7 +23,7 @@ O projeto consiste em uma estrutura de classes para gerenciar produtos. A classe
    - Baixe e siga as instruções de instalação para a IDE escolhida.
 3. Crie e execute o projeto:
    - Abra a IDE e crie um novo projeto Java.
-   - Adicione as classes "Produto" e "Pessoas".
+   - Adicione as classes.
    - Compile e execute o projeto pelo método "main".
 
 # 🛠 Construído com 
